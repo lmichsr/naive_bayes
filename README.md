@@ -18,7 +18,6 @@ Proyek ini merupakan bagian dari UAS (Tugas Akhir Semester) yang bertujuan untuk
 - Scikit-learn
 - Pandas
 - Matplotlib
-- RapidMiner
 - Git & GitHub
 
 ---
