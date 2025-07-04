@@ -1,6 +1,6 @@
 # 🏘️ Analisis Klasifikasi Perumahan Surabaya dengan Algoritma Naïve Bayes
 
-Proyek ini merupakan bagian dari UAS (Tugas Akhir Semester) yang bertujuan untuk mengklasifikasikan data perumahan di Surabaya ke dalam tiga kategori: **Low**, **Medium**, dan **High** menggunakan **algoritma Naïve Bayes**. Proses dilakukan dengan dua pendekatan: menggunakan **RapidMiner** dan **Jupyter Notebook (Python)**.
+Proyek ini merupakan bagian dari UAS (Tugas Akhir Semester) yang bertujuan untuk mengklasifikasikan data perumahan di Surabaya ke dalam tiga kategori: **Low**, **Medium**, dan **High** menggunakan **algoritma Naïve Bayes**. Proses dilakukan dengan tools **Jupyter Notebook (Python)**.
 
 ---
 
